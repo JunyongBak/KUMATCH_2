@@ -1,0 +1,62 @@
+
+.login_box {
+  position: absolute;
+  margin: 10px;
+  height: 500px;
+  width: 65%;
+  border-color: yellow;
+  border-style: none;
+  top: 150px;
+  left: 280px;
+  background-color : #fcf5f7;
+}
+
+.login_inbox{
+  position: absolute;
+  height: 300px;
+  width: 70%;
+  border-color: yellow;
+  border-style: none;
+  top: 80px;
+  left: 120px;
+
+}
+
+.login_idpw{
+  position: absolute;
+  height: 120px;
+  width: 60%;
+  border-color: yellow;
+  border-style: double;
+  top: 80px;
+  left: 100px;
+
+}
+
+#login_but{
+  position: absolute;
+  width : 150px;
+  color : blue;
+  height : 30px;
+  top : 230px;
+  left : 120px;
+}
+
+.pw_forget{
+  position: absolute;
+  top : 550px;
+  left : 470px
+}
+
+h2{
+  padding : 20px;
+  font-family: 'Nanum Gothic Coding', monospace;
+}
+
+.login_title_text{
+  position : absolute;
+  top : 40px;
+  color : #E60E0E;
+  font-size: 30px;
+
+}
